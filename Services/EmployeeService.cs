@@ -15,6 +15,8 @@ namespace UTSBlazor_72190322.Services
         {
          _httpClient = httpClient;
         }
+        
+        
         public async Task<IEnumerable<Employee>> GetAll()
         {
             var results = await _httpClient.GetFromJsonAsync<IEnumerable<Employee>>("api/Employees");
@@ -25,6 +27,21 @@ namespace UTSBlazor_72190322.Services
         {
             var result = await _httpClient.GetFromJsonAsync<Employee>($"api/Employees/{id}");
            return result;
+        }
+
+        public Task<Employee> Add(Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Employee> Update(int id, Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task Delete(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

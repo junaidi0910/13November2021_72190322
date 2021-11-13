@@ -8,6 +8,277 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1761005879,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DepartmentPage",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DepartmentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DepartmentPage"
+        }
+      },
+      {
+        "HashCode": -1935468558,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DepartmentPage",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.DepartmentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DepartmentPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2056477149,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DetailDepartment",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailDepartment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailDepartment"
+        }
+      },
+      {
+        "HashCode": 1899202194,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DetailDepartment",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.DetailDepartment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailDepartment",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -272702219,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DetailEmployee",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailEmployee"
+        }
+      },
+      {
+        "HashCode": -2028469299,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.DetailEmployee",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.DetailEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2104167733,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.EmployeePage",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.EmployeePage"
+        }
+      },
+      {
+        "HashCode": -1614405220,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.EmployeePage",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.EmployeePage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.EmployeePage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -915840762,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.Counter",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1821558779,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.Counter",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 89508718,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.FetchData",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -870722966,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.FetchData",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 224108356,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.Index",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -661930880,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.Index",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1688867576,
         "Kind": "Components.Component",
         "Name": "UTSBlazor_72190322.Shared.SurveyPrompt",
@@ -186,277 +457,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UTSBlazor_72190322.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1761005879,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DepartmentPage",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DepartmentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DepartmentPage"
-        }
-      },
-      {
-        "HashCode": -1935468558,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DepartmentPage",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.DepartmentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DepartmentPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2056477149,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DetailDepartment",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DetailDepartment"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailDepartment"
-        }
-      },
-      {
-        "HashCode": 1899202194,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DetailDepartment",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.DetailDepartment"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailDepartment",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -272702219,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DetailEmployee",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DetailEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailEmployee"
-        }
-      },
-      {
-        "HashCode": -2028469299,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.DetailEmployee",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.DetailEmployee"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.DetailEmployee",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2104167733,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.EmployeePage",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EmployeePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.EmployeePage"
-        }
-      },
-      {
-        "HashCode": -1614405220,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.EmployeePage",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.EmployeePage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.EmployeePage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 89508718,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.FetchData",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -870722966,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.FetchData",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -915840762,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.Counter",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -1821558779,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.Counter",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 224108356,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.Index",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -661930880,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.Pages.Index",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

@@ -99,6 +99,7 @@ using UTSBlazor_72190322.Shared;
     private void ToggleNavMenu()
     {
         collapseNavMenu = !collapseNavMenu;
+        
     }
 
 #line default

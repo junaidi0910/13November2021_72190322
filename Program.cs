@@ -19,6 +19,7 @@ namespace UTSBlazor_72190322
             builder.RootComponents.Add<App>("#app");
 
             var uri = new Uri("https://blazorbackend.azurewebsites.net");
+            
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = uri});
             builder.Services.AddScoped<IDepartmentService,DepartmentService>();
             builder.Services.AddScoped<IEmployeeService,EmployeeService>();

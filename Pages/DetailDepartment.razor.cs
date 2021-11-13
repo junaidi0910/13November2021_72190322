@@ -14,6 +14,7 @@ namespace UTSBlazor_72190322.Pages
         public string id { get; set; }
 
         [Inject]
+        
         public IDepartmentService DepartmentService{ get; set; }
 
 
