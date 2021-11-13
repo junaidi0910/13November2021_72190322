@@ -279,6 +279,39 @@
         }
       },
       {
+        "HashCode": 1717050652,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.App",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.App"
+        }
+      },
+      {
+        "HashCode": 1702214218,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.App",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1688867576,
         "Kind": "Components.Component",
         "Name": "UTSBlazor_72190322.Shared.SurveyPrompt",
@@ -457,39 +490,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "UTSBlazor_72190322.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1717050652,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.App",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.App"
-        }
-      },
-      {
-        "HashCode": 1702214218,
-        "Kind": "Components.Component",
-        "Name": "UTSBlazor_72190322.App",
-        "AssemblyName": "UTSBlazor_72190322",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UTSBlazor_72190322.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UTSBlazor_72190322.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
