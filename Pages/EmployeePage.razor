@@ -17,8 +17,8 @@ else
                 <img class="card-img-top imageThumbnail" src="@emp.Photopath"/>
                 <div class="card-footer text-center">
                 <a href="@($"employeedetail/{emp.EmployeeId}")" class="btn btn-primary m-1">View</a>
-                <a href="#" class="btn btn-primary m-1">edit</a>
-                <a href="#" class="btn btn-danger m-1">delete</a>
+                <a href="@($"editemployee/{emp.EmployeeId}")" class="btn btn-primary m-1">Edit</a>
+                <a href="#" class="btn btn-danger m-1">Delete</a>
             </div>
         </div>
     }

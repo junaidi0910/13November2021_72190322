@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using System.Net.Http.Json;
 using UTSBlazor_72190322.Models;
+using System.Text.Json;
+
 
 namespace UTSBlazor_72190322.Services
 {
@@ -34,9 +36,15 @@ namespace UTSBlazor_72190322.Services
             throw new NotImplementedException();
         }
 
-        public Task<Employee> Update(int id, Employee employee)
+        public async Task<Employee> Update(int id, Employee employee)
         {
-            throw new NotImplementedException();
+            var response = await _httpClient.PutAsJsonAsync($"api/Employees/{id}", employee);
+            if(response.IsSuccessStatusCode){
+                return await JsonSerializer.DeserializeAsync<Employee>(await response.Content.ReadAsStreamAsync());
+            }
+            else{
+                throw new Exception("Gagal Update Employee!");
+            }
         }
 
         public Task Delete(int id)

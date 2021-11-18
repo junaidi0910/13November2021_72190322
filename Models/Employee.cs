@@ -12,9 +12,13 @@ namespace UTSBlazor_72190322.Models
         public string LastName { get; set; }
         public string Email { get; set; }
         public DateTime DateOfBirth { get; set; }
-        public int Gender { get; set; }
+        public Gender Gender { get; set; }
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
         public string Photopath { get; set; }
+    }
+
+    public enum Gender{
+        Male, Female
     }
 }

@@ -637,3 +637,5 @@ C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEm
 C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\RazorDeclaration\Pages\EmployeePage.razor.g.cs
 C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\Razor\Pages\DetailEmployee.razor.g.cs
 C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\Razor\Pages\EmployeePage.razor.g.cs
+C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\RazorDeclaration\Pages\EditEmployee.razor.g.cs
+C:\ProgramKu\UTSBlazor_72190322\obj\Debug\net5.0\Razor\Pages\EditEmployee.razor.g.cs
