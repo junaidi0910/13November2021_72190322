@@ -147,6 +147,59 @@
         }
       },
       {
+        "HashCode": 1867352318,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.EditEmployee",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.EditEmployee"
+        }
+      },
+      {
+        "HashCode": -1322613837,
+        "Kind": "Components.Component",
+        "Name": "UTSBlazor_72190322.Pages.EditEmployee",
+        "AssemblyName": "UTSBlazor_72190322",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UTSBlazor_72190322.Pages.EditEmployee"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UTSBlazor_72190322.Pages.EditEmployee",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -2104167733,
         "Kind": "Components.Component",
         "Name": "UTSBlazor_72190322.Pages.EmployeePage",
@@ -13201,6 +13254,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\ProgramKu\\UTSBlazor_72190322\\Pages\\EditEmployee.razor",
+      "TargetPath": "Pages\\EditEmployee.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\ProgramKu\\UTSBlazor_72190322\\Pages\\EmployeePage.razor",
       "TargetPath": "Pages\\EmployeePage.razor",
       "FileKind": "component"
@@ -13228,6 +13286,11 @@
     {
       "FilePath": "c:\\ProgramKu\\UTSBlazor_72190322\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\ProgramKu\\UTSBlazor_72190322\\Pages\\AddEmployee.razor",
+      "TargetPath": "Pages\\AddEmployee.razor",
       "FileKind": "component"
     },
     {

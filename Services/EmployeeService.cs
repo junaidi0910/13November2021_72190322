@@ -31,10 +31,6 @@ namespace UTSBlazor_72190322.Services
            return result;
         }
 
-        public Task<Employee> Add(Employee employee)
-        {
-            throw new NotImplementedException();
-        }
 
         public async Task<Employee> Update(int id, Employee employee)
         {
@@ -47,9 +43,15 @@ namespace UTSBlazor_72190322.Services
             }
         }
 
-        public Task Delete(int id)
-        {
-            throw new NotImplementedException();
+         public async Task<Employee> Add(Employee obj){
+            var response = await _httpClient.PostAsJsonAsync($"api/Employees",obj);
+            if(response.IsSuccessStatusCode){
+                return await JsonSerializer.DeserializeAsync<Employee>(
+                    await response.Content.ReadAsStreamAsync());
+            }
+            else{
+                throw new Exception("Gagal Tambah Data Employee");
+            }
         }
     }
 }

@@ -14,6 +14,5 @@ namespace UTSBlazor_72190322.Services
 
         Task<Employee> Update(int id, Employee employee);
 
-        Task Delete (int id);
     }
 }

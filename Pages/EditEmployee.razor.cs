@@ -34,6 +34,8 @@ namespace UTSBlazor_72190322.Pages
         }
 
         protected async Task HandleValidSubmit(){
+            
+            Employee.Photopath = "images/nophoto.jpg";
             Employee result = await EmployeeService.Update(int.Parse(Id),Employee);
             NavigationManager.NavigateTo("employeepage");
         }
